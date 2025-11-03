@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 
+//Alex Santiago Jaimes Medina - Parcial
+
 using namespace std;
 
 double validarDato(string mensaje) {
