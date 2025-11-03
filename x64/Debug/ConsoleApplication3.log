@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\Usuario\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(28,31): warning C4101: 'Distancia': variable local sin referencia
+C:\Users\Usuario\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(28,42): warning C4101: 'CostoKm': variable local sin referencia
+  ConsoleApplication3.vcxproj -> C:\Users\Usuario\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
